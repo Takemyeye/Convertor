@@ -1,8 +1,8 @@
 .rightPanel {
     position: relative;
     right: 1rem;
-    width: 40%;
-    height: 60%;
+    width: 50%;
+    height: 95%;
     padding: 1rem 8px 0 8px;
     border-radius: 2rem;
     background-color: var(--color-001);

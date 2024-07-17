@@ -15,9 +15,12 @@ export function Header () {
                 <Link to="https://belance.netlify.app/">
                     <span> About </span>
                 </Link>
-                <span> Donate </span>
-                <span> Contact Us</span>
-                <span> compress </span>
+                <Link to="https://www.donationalerts.com/r/mellovan">
+                    <span> Donate </span>
+                </Link>
+                <Link to="https://belance.netlify.app/">
+                  <span> Contact Us</span>
+                </Link>
             </div>
         </header>
     )

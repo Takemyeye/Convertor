@@ -11,6 +11,9 @@ export function RightPanel() {
                 <h3>Easily compress your photos to optimize file size and improve performance.</h3>
             </div>
             <Img/>
+            <h1>Compress Video</h1>
+            <h3>Comming Soon...</h3>
+            
         </div>
     );
 }
