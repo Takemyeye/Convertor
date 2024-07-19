@@ -42,3 +42,11 @@
     flex-direction: column;
     gap: 8px;
 }
+
+@media all and (max-width: 768px ) {
+    .rightPanel {
+        width: 90%;
+        right: 0;
+        padding-bottom: 1rem ;  
+    }
+}
